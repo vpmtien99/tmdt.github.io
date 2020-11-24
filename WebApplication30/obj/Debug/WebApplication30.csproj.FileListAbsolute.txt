@@ -1,0 +1,306 @@
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\ApplicationInsights.config
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\csc.exe
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\vbc.exe
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\WebApplication30.dll.config
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\WebApplication30.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\WebApplication30.pdb
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\EntityFramework.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\EntityFramework.SqlServer.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.AI.Web.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Helpers.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Mvc.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Razor.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Webpages.Deployment.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Webpages.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Webpages.Razor.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\EntityFramework.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\EntityFramework.SqlServer.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.AI.Web.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Razor.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Webpages.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Webpages.Deployment.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Webpages.Razor.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Helpers.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\System.Web.Mvc.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csprojResolveAssemblyReference.cache
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\obj\Debug\WebApplication30.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\obj\Debug\WebApplication30.pdb
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\PagedList.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\PagedList.Mvc.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\PagedList.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\PagedList.Mvc.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Newtonsoft.Json.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\PayPal.dll
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\Newtonsoft.Json.xml
+C:\Users\dell5117\Documents\Visual Studio 2015\Projects\WebApplication30\WebApplication30\bin\PayPal.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\obj\Debug\WebApplication30.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\obj\Debug\WebApplication30.pdb
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\ApplicationInsights.config
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\WebApplication30.dll.config
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\WebApplication30.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\WebApplication30.pdb
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\PagedList.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\PagedList.Mvc.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\PayPal.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Webpages.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Webpages.Razor.dll
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\PagedList.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\PagedList.Mvc.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\PayPal.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Webpages.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Webpages.Razor.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.CopyComplete
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\obj\Debug\WebApplication30.Migrations.Book.resources
+C:\Users\DELL\Downloads\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\ApplicationInsights.config
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\WebApplication30.dll.config
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\WebApplication30.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\WebApplication30.pdb
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\PagedList.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\PagedList.Mvc.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\PayPal.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Webpages.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Webpages.Razor.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\PagedList.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\PagedList.Mvc.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\PayPal.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Webpages.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Webpages.Razor.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.CopyComplete
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\obj\Debug\WebApplication30.dll
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\obj\Debug\WebApplication30.pdb
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\obj\Debug\WebApplication30.Migrations.Kinh.resources
+C:\Users\DELL\Desktop\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.GenerateResource.cache
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\ApplicationInsights.config
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\csc.exe
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\System.Collections.Immutable.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\vbc.exe
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\VBCSCompiler.exe
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\VBCSCompiler.exe.config
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\WebApplication30.dll.config
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\WebApplication30.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\WebApplication30.pdb
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\EntityFramework.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\EntityFramework.SqlServer.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.Agent.Intercept.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.DependencyCollector.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.Web.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.WindowsServer.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.ApplicationInsights.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.Web.Infrastructure.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Newtonsoft.Json.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\PagedList.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\PagedList.Mvc.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\PayPal.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Helpers.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Mvc.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Razor.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.Deployment.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.Razor.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\EntityFramework.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\EntityFramework.SqlServer.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.DependencyCollector.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.Web.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.WindowsServer.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.ApplicationInsights.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\Newtonsoft.Json.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\PagedList.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\PagedList.Mvc.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\PayPal.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Razor.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.Deployment.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.Razor.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Helpers.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Mvc.xml
+E:\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csprojAssemblyReference.cache
+E:\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.CoreCompileInputs.cache
+E:\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.CopyComplete
+E:\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.dll
+E:\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.pdb
+E:\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.Migrations.SP.resources
+E:\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\WebApplication30.dll.config
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\WebApplication30.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\WebApplication30.pdb
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\PagedList.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\PayPal.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\PagedList.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\PayPal.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.CopyComplete
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.dll
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.pdb
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.Migrations.SP.resources
+C:\Users\Admin\Desktop\TMDT\WebBanKinh\WebApplication30\WebApplication30\obj\Debug\WebApplication30.csproj.GenerateResource.cache
